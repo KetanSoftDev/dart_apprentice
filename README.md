@@ -5,7 +5,7 @@ A simple command-line application.
 ####Chapter 2
 
 ```
-   import 'dart:math';
+import 'dart:math';
 
 void main() {
   var age=16;
